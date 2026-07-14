@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["DemoExpoModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.demoexpo.DemoExpoModule"]
+  }
+}
